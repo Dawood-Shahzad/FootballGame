@@ -3,5 +3,6 @@ public class Main {
         new Stats();
         new YouthAcademy();
         new Settings1();
+        new Tables();
     }
 }
